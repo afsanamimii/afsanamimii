@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afsanamimii
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning way of making ml model
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on machine learning/ deep learning project
 - 📫 How to reach me (mail: afsana.mimi0304@gmail.com)
 
 <!---
